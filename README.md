@@ -22,7 +22,7 @@ Python (Pandas, NumPy), SQL, Power BI, DAX
 - [Finding 3, e.g. Higher monthly charges are linked to higher churn]
 
 ## Dashboard Preview
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](Screenshot 2026-11-13 122448.png)
 
 ## Project Structure
 - `data/` - raw dataset
@@ -32,4 +32,4 @@ Python (Pandas, NumPy), SQL, Power BI, DAX
 
 ## Author
 Yamini Sudulaguntla
-[LinkedIn link] | yaminisudulaguntla@gmail.com
+[https://www.linkedin.com/in/yamini-sudulaguntla] | yaminisudulaguntla@gmail.com
